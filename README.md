@@ -32,3 +32,4 @@ cheat injector for csgo (tf2 coming soon)
 
 # Disclaimer
 I am not responsible for anything that happens when you use this software.
+thanks to flipper zero for image
