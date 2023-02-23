@@ -11,7 +11,7 @@ cheat injector for csgo (tf2 coming soon)
 
 ![doom](https://ibb.co/2Z5Xr0h)
 
-[url=https://imgbb.com/][img]https://i.ibb.co/1zbHNYQ/ezgif-com-crop-4.gif[/img][/url]
+https://i.ibb.co/1zbHNYQ/ezgif-com-crop-4.gif[/img]
 
 
 
