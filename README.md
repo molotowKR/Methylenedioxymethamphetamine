@@ -9,11 +9,7 @@ cheat injector for csgo (tf2 coming soon)
 - Support newest VAC update
 - Bypass trusted
 
-![doom](https://i.ibb.co/1zbHNYQ/ezgif-com-crop-4.gif)
-
-
-
-
+![doom](https://i.ibb.co/jGsTjJy/ezgif-com-crop-5.gif)
 
 
 
